@@ -1,5 +1,6 @@
-package com.edu.ml;
+package com.edu.ml.regression.logistic;
 
+import com.edu.ml.regression.RegressionHypothesis;
 import org.nd4j.linalg.api.ndarray.INDArray;
 import org.nd4j.linalg.api.ops.impl.transforms.strict.Sigmoid;
 import org.nd4j.linalg.factory.Nd4j;

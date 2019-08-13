@@ -1,5 +1,6 @@
-package com.edu.ml;
+package com.edu.ml.regression;
 
+import com.edu.ml.Hypothesis;
 import org.nd4j.linalg.api.ndarray.INDArray;
 
 public abstract class RegressionHypothesis implements Hypothesis

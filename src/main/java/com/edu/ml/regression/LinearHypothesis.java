@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.edu.ml;
+package com.edu.ml.regression;
 
 import org.nd4j.linalg.api.ndarray.INDArray;
 

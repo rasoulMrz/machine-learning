@@ -1,8 +1,7 @@
 package com.edu.ml.regression.logistic;
 
 import com.edu.ml.GradientDecent;
-import com.edu.ml.LinearHypothesis;
-import com.edu.ml.SigHypothesis;
+import com.edu.ml.regression.LinearHypothesis;
 import java.io.File;
 import java.io.IOException;
 import org.datavec.api.records.reader.RecordReader;
